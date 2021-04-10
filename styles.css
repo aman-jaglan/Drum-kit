@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+  background-color: #8675a9;
+  font-family: 'Faster One', cursive;
+}
+h1{
+  font-size: 6rem;
+}
+.pressed{
+  box-shadow: 0px 3px 4px 0px #dfedf3;
+  opacity: 0.5;
+}
+.pressImage{
+  background-size: 100%;
+    background-image: url("images/drum2.png");
+}
+
+.drum{
+  border-radius: 9px;
+  border: 15px solid #132743;
+  cursor: pointer;
+  color: red;
+  font-family: 'Shojumaru',cursive;
+  font-size: 35px;
+  font-weight: bold;
+  padding: 60px;
+  margin: 40px 10px 100px 10px;
+}
+button:hover{
+  //background-color: #ffe2e2;
+  background-size: 100%;
+    background-image: url("images/drum2.png");
+
+}
+.w{
+
+
+
+
+}
+
+
+.e{
+
+}
